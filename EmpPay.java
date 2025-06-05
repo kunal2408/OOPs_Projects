@@ -94,7 +94,7 @@ class PayRollSystem{
     }
 }
 
-class Main{
+class EmpPay{
     public static void main(String[] args) {
 
         PayRollSystem pay = new PayRollSystem();
