@@ -1,4 +1,3 @@
-
 class pizza {
     private int price;
 
@@ -75,7 +74,7 @@ class specialPizza extends pizza {
     
 }
 
-public class Main {
+public class PizzaBill {
     public static void main(String[] args) {
         pizza obj = new pizza(true);
         obj.Extracheese();
